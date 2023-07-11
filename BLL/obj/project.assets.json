@@ -1201,11 +1201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\BLL\\BLL.csproj",
+      "projectUniqueName": "D:\\VisualStudioProjects\\ASP_Resume\\src\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\BLL\\BLL.csproj",
+      "projectPath": "D:\\VisualStudioProjects\\ASP_Resume\\src\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\BLL\\obj\\",
+      "outputPath": "D:\\VisualStudioProjects\\ASP_Resume\\src\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1222,8 +1222,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\DAL\\DAL.csproj"
+            "D:\\VisualStudioProjects\\ASP_Resume\\src\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\VisualStudioProjects\\ASP_Resume\\src\\DAL\\DAL.csproj"
             }
           }
         }

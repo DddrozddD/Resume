@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wbrqCGjSzUb1a4SgBUEEJKTRoSL3jTQLWqmnbUaAXeIOavLV39RL0IKzoPe8U4Y2VhcbcvtLE6Xrj4raRO/W0w==",
+  "dgSpecHash": "12XV+GkDoxUUn/ebAq8PFULCQvQA3X2xEUgAtOei0mKswQCsQUAJKXvGgmPRnLWZ30NuOosdq4Qg6h5o+YilUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\VisualStudioProjects\\ASP_Resume\\src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Artem\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.13\\microsoft.aspnetcore.cryptography.internal.6.0.13.nupkg.sha512",
     "C:\\Users\\Artem\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.13\\microsoft.aspnetcore.cryptography.keyderivation.6.0.13.nupkg.sha512",

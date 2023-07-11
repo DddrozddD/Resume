@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+9fnfpp5WFRVFJdLqvufNWhEikRMmXv2e6aMEZUjykAuoJscz6iojlvVk4f8VhXtZuzuzwGPKiFln9Q0yrK1IA==",
+  "dgSpecHash": "om+u/PPqpurJmq5l1djN9sHr6LooNQ/u33DeSp4Ik+8qX7lv2zM0IGQWXugo8wyJpC0GpGL88hnB9uvc/Ji6+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\ASP_Resume.csproj",
+  "projectFilePath": "D:\\VisualStudioProjects\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\ASP_Resume.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Artem\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Artem\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

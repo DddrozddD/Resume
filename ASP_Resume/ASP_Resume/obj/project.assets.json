@@ -10472,11 +10472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\ASP_Resume.csproj",
+      "projectUniqueName": "D:\\VisualStudioProjects\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\ASP_Resume.csproj",
       "projectName": "ASP_Resume",
-      "projectPath": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\ASP_Resume.csproj",
+      "projectPath": "D:\\VisualStudioProjects\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\ASP_Resume.csproj",
       "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\obj\\",
+      "outputPath": "D:\\VisualStudioProjects\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10493,8 +10493,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\BLL\\BLL.csproj"
+            "D:\\VisualStudioProjects\\ASP_Resume\\src\\BLL\\BLL.csproj": {
+              "projectPath": "D:\\VisualStudioProjects\\ASP_Resume\\src\\BLL\\BLL.csproj"
             }
           }
         }

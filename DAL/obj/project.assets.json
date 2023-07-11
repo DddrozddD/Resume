@@ -843,11 +843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\DAL\\DAL.csproj",
+      "projectUniqueName": "D:\\VisualStudioProjects\\ASP_Resume\\src\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\DAL\\DAL.csproj",
+      "projectPath": "D:\\VisualStudioProjects\\ASP_Resume\\src\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\DAL\\obj\\",
+      "outputPath": "D:\\VisualStudioProjects\\ASP_Resume\\src\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -864,8 +864,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\Domain\\Domain.csproj"
+            "D:\\VisualStudioProjects\\ASP_Resume\\src\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\VisualStudioProjects\\ASP_Resume\\src\\Domain\\Domain.csproj"
             }
           }
         }
