@@ -1,0 +1,37 @@
+﻿@model IReadOnlyCollection<Domain.Models.User>
+
+    <div style="display:inline-block;">
+@foreach(var user in Model)
+{
+        <div style="display:inline-block;width:340px; border:1px solid purple; text-align:center; border-radius:10px; padding:10px; background-color:cadetblue; margin:10px;">
+    <div class="header-content">
+        <div class="header-photo">
+                <img src="/img/main_photo.jpg" alt="@user.FirstName @user.SecondName">
+        </div>
+        <div class="header-titles">
+                    @using (Html.BeginForm("SeeUserResume", "Resume"))
+                    {
+                        
+                    
+                    <input type="hidden" name="Id" value=@user.Id>
+                <h2>@user.FirstName @user.SecondName</h2>
+                    <h4>
+                @foreach (var speciality in user.Resume.Specialities)
+                {
+                    @speciality.Name<span>,</span>
+                }
+                </h4>   
+                <br/>
+                <h4>Age:@user.Age</h4>
+                <h4>Country:@user.Country</h4>
+
+                        <input type="submit" class="button btn-send" value="Watch resume">
+                }
+        </div>
+    </div>
+  
+   </div>
+    
+}
+
+</div>
