@@ -1,0 +1,561 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASP_Resume.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ASP_Resume.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\animations.css",
+      "PackagePath": "staticwebassets\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-brands-400.eot@",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-brands-400.eot@"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-regular-400.eot@",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-regular-400.eot@"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-solid-900.eot@",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-solid-900.eot@"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-free-5.12.1-web\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\linear-icons-font\\fonts\\Linearicons-Free.eot@",
+      "PackagePath": "staticwebassets\\css\\fonts\\linear-icons-font\\fonts\\Linearicons-Free.eot@"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\linear-icons-font\\fonts\\Linearicons-Free.eot@w118d",
+      "PackagePath": "staticwebassets\\css\\fonts\\linear-icons-font\\fonts\\Linearicons-Free.eot@w118d"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\linear-icons-font\\fonts\\Linearicons-Free.svg@w118d",
+      "PackagePath": "staticwebassets\\css\\fonts\\linear-icons-font\\fonts\\Linearicons-Free.svg@w118d"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\linear-icons-font\\fonts\\Linearicons-Free.ttf@w118d",
+      "PackagePath": "staticwebassets\\css\\fonts\\linear-icons-font\\fonts\\Linearicons-Free.ttf@w118d"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\linear-icons-font\\fonts\\Linearicons-Free.woff2@w118d",
+      "PackagePath": "staticwebassets\\css\\fonts\\linear-icons-font\\fonts\\Linearicons-Free.woff2@w118d"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\linear-icons-font\\fonts\\Linearicons-Free.woff@w118d",
+      "PackagePath": "staticwebassets\\css\\fonts\\linear-icons-font\\fonts\\Linearicons-Free.woff@w118d"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\fonts\\linear-icons-font\\style.css",
+      "PackagePath": "staticwebassets\\css\\fonts\\linear-icons-font\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\blog\\blog_post_1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_post_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\blog\\blog_post_1_full.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_post_1_full.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\blog\\blog_post_2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_post_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\blog\\blog_post_3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_post_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\blog\\blog_post_4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_post_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\clients\\client-7.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\main_bg.png",
+      "PackagePath": "staticwebassets\\img\\main_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\main_photo.jpg",
+      "PackagePath": "staticwebassets\\img\\main_photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\portfolio\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\portfolio\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\portfolio\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\portfolio\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\portfolio\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\portfolio\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\portfolio\\full\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\full\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\portfolio\\full\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\full\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\portfolio\\full\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\full\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\portfolio\\full\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\full\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\testimonials\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\testimonials\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\img\\testimonials\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\Front\\animating.js",
+      "PackagePath": "staticwebassets\\js\\Front\\animating.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\Front\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\Front\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\Front\\jquery-2.1.3.min.js",
+      "PackagePath": "staticwebassets\\js\\Front\\jquery-2.1.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\Front\\jquery.googlemap.js",
+      "PackagePath": "staticwebassets\\js\\Front\\jquery.googlemap.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\Front\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\Front\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\Front\\jquery.shuffle.min.js",
+      "PackagePath": "staticwebassets\\js\\Front\\jquery.shuffle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\Front\\main.js",
+      "PackagePath": "staticwebassets\\js\\Front\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\Front\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\Front\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\Front\\modernizr.custom.js",
+      "PackagePath": "staticwebassets\\js\\Front\\modernizr.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\Front\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\Front\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\Front\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\Front\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\Front\\validator.js",
+      "PackagePath": "staticwebassets\\js\\Front\\validator.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\authorization.js",
+      "PackagePath": "staticwebassets\\js\\authorization.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Artem\\Source\\Repos\\ASP_Resume\\src\\ASP_Resume\\ASP_Resume\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ASP_Resume.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ASP_Resume.props",
+      "PackagePath": "build\\ASP_Resume.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP_Resume.props",
+      "PackagePath": "buildMultiTargeting\\ASP_Resume.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ASP_Resume.props",
+      "PackagePath": "buildTransitive\\ASP_Resume.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
